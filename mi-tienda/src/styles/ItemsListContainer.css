@@ -1,0 +1,18 @@
+
+
+.item-list-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  .item-list-container h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .item-list-container{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 60px;
+    text-align: center;
+  }
